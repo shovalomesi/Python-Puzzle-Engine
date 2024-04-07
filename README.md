@@ -52,8 +52,8 @@ To explore this puzzle solver:
 2. Navigate to the repository directory and run `main.py` to see the solver in action.
 
 ```bash
-git clone https://github.com/YourUsername/Python-Puzzle-Engine.git
-cd Python-Puzzle-Solver
+git clone https://github.com/shovalomesi/Python-Puzzle-Engine.git
+cd Python-Puzzle-Engine
 python main.py
 ```
 
